@@ -1,7 +1,12 @@
 
-
+.callout {
+	margin: 1rem ;
+}
 
 .sticky-topbar {
   width: 100%;
 }
 
+.hero {
+	background: url(/foundation/barchart1.html);
+}
